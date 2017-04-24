@@ -1,6 +1,6 @@
 {
   "name": "nginx-syslog",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Nginx syslog protocol interface",
   "main": "index.js",
   "scripts": {
